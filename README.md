@@ -1,4 +1,5 @@
 Berikut ringkasan hasil explore saya untuk halaman website flip.id:
+
 Excel:
 1. 001-059_ExploratoryTesting_MayangG.xlsx merupakan exploratory testing halaman Flip Home sebelum login
 2. 060-089_NegativeTesting_MayangG.xlsx merupakan test case negative / edge cases

@@ -18,4 +18,5 @@ Passed: 129 (97%)
 Failed: 10 (3%)
 
 Automation Testing:
-Karena keterbatasan waktu, total 20 test case saja yang baru sempat diautomatisasi menggunakan Katalon Recorder tersebut.
+1. Karena keterbatasan waktu, total 20 test case saja yang baru sempat diautomatisasi menggunakan Katalon Recorder tersebut.
+2. Katalon akan membaca test case sebagai Failed jika Timed Out atau internet lama loadingnya.

@@ -6,6 +6,8 @@ Excel:
 4. Report Flip.id.xls merupakan report testing secara keseluruhan
 5. AutomationFlip.html file yang harus diimport saat menggunakan Katalon Recorder
 
+Notes untuk file excel: karena menggunakan LibreOffice dan laptop saya sedang bermasalah, hyperlink yang disimpan dalam excel tersebut broken jika dibuka dengan Ms.Excel. Tetapi sudah saya usahakan untuk merunutkan nomor test case per sheet nya dari yang terkecil dari kiri ke kanan.
+
 Total Test Case:
 Exploratory: 59 test cases
 Negative Testing: 30 test cases
